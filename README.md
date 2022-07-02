@@ -1,19 +1,9 @@
-# vue-crm
+# Home CRM
 
-## Project setup
-```
-npm install
-```
+Link to published project https://nikitapil.github.io/vue-home-crm/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Home crm application represents small tool for maaking records about your budget, create planning and watch ypur finance statement.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Technologies used
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Vue, firebase, Vuex, Typescript, vuelidate, REST API, Html, Scss, materialize-css
